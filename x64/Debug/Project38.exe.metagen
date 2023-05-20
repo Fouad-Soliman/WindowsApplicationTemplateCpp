@@ -1,0 +1,111 @@
+  Project38.Account_Settings.resources - Embedded, ContainedInManifestFile, 
+  Project38.Camera_winform.resources - Embedded, ContainedInManifestFile, 
+  Project38.MyForm.resources - Embedded, ContainedInManifestFile, 
+  Project38.MyForm2.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly Project38, Version=0.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly AForge, Version=2.2.5.0, Culture=neutral, PublicKeyToken=c1db6ff4eaa06aeb: 
+	hash=None, flags=None
+Assembly AForge.Video.DirectShow, Version=2.2.5.0, Culture=neutral, PublicKeyToken=61ea4348d43881b7: 
+	hash=None, flags=None
+Assembly AForge.Video, Version=2.2.5.0, Culture=neutral, PublicKeyToken=cbfb6e07d173c401: 
+	hash=None, flags=None
+Assembly DarrenLee.Media, Version=1.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=None, flags=None
+Assembly MessageBoxManager, Version=1.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=None, flags=None
+Assembly MySql.Data, Version=8.0.16.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d: 
+	hash=None, flags=None
+Assembly Project29, Version=0.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=None, flags=None
+Assembly Siticone.UI, Version=1.0.0.3, Culture=neutral, PublicKeyToken=da23b5286e22db85: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly Interop.WMPLib.1.0, Version=1.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=None, flags=None
+Assembly AxInterop.WMPLib.1.0, Version=1.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=None, flags=None
+Class Project38.Camera_winform: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(std.basic_string<char\,std::char_traits<char>\,std::allocator<char> >*): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    DarrenLee.Media.Camera MyCamera : Public
+  Methods:
+    MarshalString(String, basic_string<char\,std::char_traits<char>\,std::allocator<char> >* IsImplicitlyDereferenced): PrivateScope, Public, HideBySig
+    MyCamera_OnFrameArrived(Object, FrameArrivedEventArgs): PrivateScope, Public, HideBySig
+Class Project38.MyForm2: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(std.basic_string<char\,std::char_traits<char>\,std::allocator<char> >*): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(std.basic_string<char\,std::char_traits<char>\,std::allocator<char> >*, std.basic_string<char\,std::char_traits<char>\,std::allocator<char> >*, std.basic_string<char\,std::char_traits<char>\,std::allocator<char> >*): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    SByte checkStep IsSignUnspecifiedByte : Public
+  Methods:
+    Getstep(): PrivateScope, Public, HideBySig
+    GetPass(): PrivateScope, Public, HideBySig
+Class Project38.Account_Settings: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(std.basic_string<char\,std::char_traits<char>\,std::allocator<char> >*, std.basic_string<char\,std::char_traits<char>\,std::allocator<char> >*, std.basic_string<char\,std::char_traits<char>\,std::allocator<char> >*, std.basic_string<char\,std::char_traits<char>\,std::allocator<char> >*, std.basic_string<char\,std::char_traits<char>\,std::allocator<char> >*, SByte, SByte, std.vector<std::basic_string<char\,std::char_traits<char>\,std::allocator<char> >\,std::allocator<std::basic_string<char\,std::char_traits<char>\,std::allocator<char> > > >*, std.vector<std::basic_string<char\,std::char_traits<char>\,std::allocator<char> >\,std::allocator<std::basic_string<char\,std::char_traits<char>\,std::allocator<char> > > >*, std.vector<std::basic_string<char\,std::char_traits<char>\,std::allocator<char> >\,std::allocator<std::basic_string<char\,std::char_traits<char>\,std::allocator<char> > > >*): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(std.basic_string<char\,std::char_traits<char>\,std::allocator<char> >*, std.basic_string<char\,std::char_traits<char>\,std::allocator<char> >*, std.basic_string<char\,std::char_traits<char>\,std::allocator<char> >*, std.basic_string<char\,std::char_traits<char>\,std::allocator<char> >*, std.basic_string<char\,std::char_traits<char>\,std::allocator<char> >*, SByte, SByte, std.vector<std::basic_string<char\,std::char_traits<char>\,std::allocator<char> >\,std::allocator<std::basic_string<char\,std::char_traits<char>\,std::allocator<char> > > >*, std.vector<std::basic_string<char\,std::char_traits<char>\,std::allocator<char> >\,std::allocator<std::basic_string<char\,std::char_traits<char>\,std::allocator<char> > > >*, std.vector<std::basic_string<char\,std::char_traits<char>\,std::allocator<char> >\,std::allocator<std::basic_string<char\,std::char_traits<char>\,std::allocator<char> > > >*, std.basic_string<char\,std::char_traits<char>\,std::allocator<char> >*): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Int32 timer1_counter : Public
+    Int32 timer1_counter2 : Public
+    Int32 timer2_counter : Public
+    Int32 timer2_counter2 : Public
+    SByte who IsSignUnspecifiedByte : Public
+    System.Collections.Generic.List`1[System.Windows.Forms.PictureBox] pics : Public
+    System.Collections.Generic.List`1[System.Windows.Forms.Label] labels : Public
+    System.String old_username : Public
+    System.String old_phone : Public
+    System.String old_email : Public
+    System.String old_name : Public
+    System.String RandomCode : Public
+    System.String old_pass : Public
+    Boolean changed : Public
+    SByte s_key IsSignUnspecifiedByte : Public
+    System.Collections.Generic.List`1[System.String] EMAILS : Public
+    System.Collections.Generic.List`1[System.String] PHONES : Public
+    System.Collections.Generic.List`1[System.String] UNAMES : Public
+    Project38.MyForm2 c : Public
+    SByte Logoutkey IsSignUnspecifiedByte : Public
+    Boolean Delete_choice : Public
+    SByte STEP2 IsSignUnspecifiedByte : Public
+    SByte genders IsSignUnspecifiedByte : Public
+    Int32 curr_loc : Public
+    System.String Code : Public, Static
+  Methods:
+    Blue(PictureBox, Label): PrivateScope, Public, HideBySig
+    Green(PictureBox, Label): PrivateScope, Public, HideBySig
+    Red(PictureBox, Label): PrivateScope, Public, HideBySig
+    Blacken(PictureBox, Label): PrivateScope, Public, HideBySig
+    Bluen(PictureBox, Label): PrivateScope, Public, HideBySig
+    MarshalString(String, basic_string<char\,std::char_traits<char>\,std::allocator<char> >* IsImplicitlyDereferenced): PrivateScope, Public, HideBySig
+    save(): PrivateScope, Public, HideBySig
+    GetPass(): PrivateScope, Public, HideBySig
+    GetFullname(): PrivateScope, Public, HideBySig
+    GetUsername(): PrivateScope, Public, HideBySig
+    GetEmail(): PrivateScope, Public, HideBySig
+    GetPhone(): PrivateScope, Public, HideBySig
+    change_occured(): PrivateScope, Public, HideBySig
+    Getsend_email(): PrivateScope, Public, HideBySig
+    Getstep2(): PrivateScope, Public, HideBySig
+    logout(): PrivateScope, Public, HideBySig
+    save_key(): PrivateScope, Public, HideBySig
+    Delete_key(): PrivateScope, Public, HideBySig
+    phone_or_name_changed(): PrivateScope, Public, HideBySig
+    Show_Account(): PrivateScope, Public, HideBySig
+Class Project38.MyForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName

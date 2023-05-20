@@ -1,0 +1,25 @@
+﻿  COM Reference 'WMPLib.1.0' is the interop assembly for ActiveX control 'AxWMPLib.1.0' but was marked to be linked by the compiler with the /link flag. This COM reference will be treated as a reference and will not be linked.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.MetaGen.targets(91,5): warning : Required file "F:\0\SELF-DIAGNOSIS-SP\X64\DEBUG\AFORGE.DLL" is missing.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.MetaGen.targets(91,5): warning : Required file "F:\0\SELF-DIAGNOSIS-SP\X64\DEBUG\AFORGE.VIDEO.DIRECTSHOW.DLL" is missing.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.MetaGen.targets(91,5): warning : Required file "F:\0\SELF-DIAGNOSIS-SP\X64\DEBUG\AFORGE.VIDEO.DLL" is missing.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.MetaGen.targets(91,5): warning : Required file "F:\0\SELF-DIAGNOSIS-SP\X64\DEBUG\DARRENLEE.MEDIA.DLL" is missing.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.MetaGen.targets(91,5): warning : Required file "F:\0\SELF-DIAGNOSIS-SP\X64\DEBUG\MESSAGEBOXMANAGER.DLL" is missing.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.MetaGen.targets(91,5): warning : Required file "F:\0\SELF-DIAGNOSIS-SP\PROJECT29.DLL" is missing.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.MetaGen.targets(91,5): warning : Required file "F:\0\SELF-DIAGNOSIS-SP\INTEROP\INTEROP.WMPLIB.1.0.DLL" is missing.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.MetaGen.targets(91,5): warning : Required file "F:\0\SELF-DIAGNOSIS-SP\INTEROP\AXINTEROP.WMPLIB.1.0.DLL" is missing.
+  Account_Settings.cpp
+F:\0\Windows Form Application Template C++\MyForm2.h(298,11): warning C4244: 'initializing': conversion from 'wchar_t' to 'char', possible loss of data
+F:\0\Windows Form Application Template C++\Account_Settings.h(1533,11): warning C4244: 'initializing': conversion from 'wchar_t' to 'char', possible loss of data
+F:\0\Windows Form Application Template C++\Account_Settings.h(1683,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+F:\0\Windows Form Application Template C++\Account_Settings.h(1831,11): warning C4244: 'initializing': conversion from 'wchar_t' to 'char', possible loss of data
+F:\0\Windows Form Application Template C++\Account_Settings.h(1907,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+F:\0\Windows Form Application Template C++\Account_Settings.h(2346,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Camera_winform.cpp
+  MyForm.cpp
+F:\0\Windows Form Application Template C++\MyForm.cpp(6,38): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  MyForm2.cpp
+F:\0\Windows Form Application Template C++\MyForm2.h(298,11): warning C4244: 'initializing': conversion from 'wchar_t' to 'char', possible loss of data
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...
+  Account_Settings.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Project38.vcxproj -> F:\0\Windows Form Application Template C++\x64\Debug\Project38.exe

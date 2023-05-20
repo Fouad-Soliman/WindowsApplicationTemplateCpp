@@ -1,0 +1,39 @@
+  Project26.CustomList.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly Project29, Version=0.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class Project26.CustomList: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.UserControl
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    System.String Phone 'get set' : 
+    System.String doc_Pic 'get set' : 
+    System.String Doc 'get set' : 
+    System.String Symptoms 'get set' : 
+    System.String Info 'get set' : 
+    System.String Title 'get set' : 
+  Methods:
+    get_Title(): PrivateScope, Public, HideBySig, SpecialName
+    set_Title(String): PrivateScope, Public, HideBySig, SpecialName
+    get_Info(): PrivateScope, Public, HideBySig, SpecialName
+    set_Info(String): PrivateScope, Public, HideBySig, SpecialName
+    get_Symptoms(): PrivateScope, Public, HideBySig, SpecialName
+    set_Symptoms(String): PrivateScope, Public, HideBySig, SpecialName
+    get_Doc(): PrivateScope, Public, HideBySig, SpecialName
+    set_Doc(String): PrivateScope, Public, HideBySig, SpecialName
+    get_doc_Pic(): PrivateScope, Public, HideBySig, SpecialName
+    set_doc_Pic(String): PrivateScope, Public, HideBySig, SpecialName
+    get_Phone(): PrivateScope, Public, HideBySig, SpecialName
+    set_Phone(String): PrivateScope, Public, HideBySig, SpecialName

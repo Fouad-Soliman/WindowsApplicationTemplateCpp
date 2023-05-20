@@ -1,0 +1,152 @@
+C:\VS code\projects\.vscode\Project38\x64\Debug\Project38.vcxproj.AssemblyReference.cache
+C:\VS code\projects\.vscode\Project38\x64\Debug\Project38.vcxproj.SuggestedBindingRedirects.cache
+C:\VS code\projects\.vscode\Project38\x64\Debug\Project38.exe
+C:\VS code\projects\.vscode\Project38\x64\Debug\Project38.MyForm.resources
+C:\VS code\projects\.vscode\Project38\x64\Debug\Project38.vcxproj.GenerateResource.cache
+C:\Users\karee\Desktop\gui\Project38\x64\Debug\Project38.vcxproj.AssemblyReference.cache
+C:\Users\karee\Desktop\gui\Project38\x64\Debug\Project38.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\karee\Desktop\gui\Project38\x64\Debug\Project38.MyForm.resources
+C:\Users\karee\Desktop\gui\Project38\x64\Debug\Project38.vcxproj.GenerateResource.cache
+C:\Users\karee\Desktop\gui\Project38\x64\Debug\Project38.exe
+C:\Users\karee\Desktop\gui\Project38\x64\Debug\Project38.vcxproj.ResolveComReference.cache
+C:\Users\karee\Desktop\gui\Project38\x64\Debug\Interop.WMPLib.1.0.dll
+C:\Users\karee\Desktop\Project38\x64\Debug\Project38.vcxproj.AssemblyReference.cache
+C:\Users\karee\Desktop\Project38\x64\Debug\Project38.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\karee\Desktop\Project38\x64\Debug\Project38.vcxproj.ResolveComReference.cache
+C:\Users\karee\Desktop\Project38\x64\Debug\Project38.MyForm.resources
+C:\Users\karee\Desktop\Project38\x64\Debug\Project38.vcxproj.GenerateResource.cache
+C:\Users\karee\Desktop\Project38\x64\Debug\Project38.exe
+C:\Users\karee\Desktop\Project38\x64\Debug\Interop.WMPLib.1.0.dll
+C:\Users\karee\Desktop\Project38\x64\Debug\Project38.MyForm1.resources
+C:\Users\karee\Desktop\Uni Projects\SP\Project38\x64\Debug\Project38.vcxproj.AssemblyReference.cache
+C:\Users\karee\Desktop\Uni Projects\SP\Project38\x64\Debug\Project38.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\karee\Desktop\Uni Projects\SP\Project38\x64\Debug\Project38.vcxproj.ResolveComReference.cache
+C:\Users\karee\Desktop\Uni Projects\SP\Project38\x64\Debug\Project38.MyForm.resources
+C:\Users\karee\Desktop\Uni Projects\SP\Project38\x64\Debug\Project38.vcxproj.GenerateResource.cache
+C:\Users\karee\Desktop\Uni Projects\SP\Project38\x64\Debug\Project38.exe
+C:\Users\karee\Desktop\Uni Projects\SP\Project38\x64\Debug\Interop.WMPLib.1.0.dll
+C:\Users\karee\Desktop\Uni Projects\SP\Project38\x64\Debug\Project38.MyForm2.resources
+C:\Users\karee\Desktop\Uni Projects\SP\Project38 - Copy\x64\Debug\Project38.vcxproj.AssemblyReference.cache
+C:\Users\karee\Desktop\Uni Projects\SP\Project38 - Copy\x64\Debug\Project38.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\karee\Desktop\Uni Projects\SP\Project38 - Copy\x64\Debug\Project38.vcxproj.ResolveComReference.cache
+C:\Users\karee\Desktop\Uni Projects\SP\Project38 - Copy\x64\Debug\Project38.MyForm.resources
+C:\Users\karee\Desktop\Uni Projects\SP\Project38 - Copy\x64\Debug\Project38.MyForm2.resources
+C:\Users\karee\Desktop\Uni Projects\SP\Project38 - Copy\x64\Debug\Project38.vcxproj.GenerateResource.cache
+C:\Users\karee\Desktop\Uni Projects\SP\Project38 - Copy\x64\Debug\Project38.exe
+C:\Users\karee\Desktop\Uni Projects\SP\Project38 - Copy\x64\Debug\Interop.WMPLib.1.0.dll
+C:\Users\karee\Desktop\Uni Projects\SP\Project38\x64\Debug\Project38.vcxproj.CopyComplete
+C:\Users\karee\Desktop\Uni Projects\SP\Project38\x64\Debug\AForge.dll
+C:\Users\karee\Desktop\Uni Projects\SP\Project38\x64\Debug\AForge.Video.DirectShow.dll
+C:\Users\karee\Desktop\Uni Projects\SP\Project38\x64\Debug\AForge.Video.dll
+C:\Users\karee\Desktop\Uni Projects\SP\Project38\x64\Debug\DarrenLee.Media.dll
+C:\Users\karee\Desktop\Uni Projects\SP\Project38 - Copy (2)\x64\Debug\Project38.vcxproj.AssemblyReference.cache
+C:\Users\karee\Desktop\Uni Projects\SP\Project38 - Copy (2)\x64\Debug\Project38.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\karee\Desktop\Uni Projects\SP\Project38 - Copy (2)\x64\Debug\Project38.vcxproj.ResolveComReference.cache
+C:\Users\karee\Desktop\Uni Projects\SP\Project38 - Copy (2)\x64\Debug\Project38.MyForm.resources
+C:\Users\karee\Desktop\Uni Projects\SP\Project38 - Copy (2)\x64\Debug\Project38.MyForm2.resources
+C:\Users\karee\Desktop\Uni Projects\SP\Project38 - Copy (2)\x64\Debug\Project38.vcxproj.GenerateResource.cache
+C:\Users\karee\Desktop\Uni Projects\SP\Project38 - Copy (2)\x64\Debug\Project38.vcxproj.CopyComplete
+C:\Users\karee\Desktop\Uni Projects\SP\Project38 - Copy (2)\x64\Debug\Project38.exe
+C:\Users\karee\Desktop\Uni Projects\SP\Project38 - Copy (2)\x64\Debug\AForge.dll
+C:\Users\karee\Desktop\Uni Projects\SP\Project38 - Copy (2)\x64\Debug\AForge.Video.DirectShow.dll
+C:\Users\karee\Desktop\Uni Projects\SP\Project38 - Copy (2)\x64\Debug\AForge.Video.dll
+C:\Users\karee\Desktop\Uni Projects\SP\Project38 - Copy (2)\x64\Debug\DarrenLee.Media.dll
+C:\Users\karee\Desktop\Uni Projects\SP\Project38 - Copy (2)\x64\Debug\Interop.WMPLib.1.0.dll
+C:\Users\karee\OneDrive\المستندات\GitHub\Self-Diagnosis-Sp\x64\Debug\Project38.vcxproj.AssemblyReference.cache
+C:\Users\karee\OneDrive\المستندات\GitHub\Self-Diagnosis-Sp\x64\Debug\Project38.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\karee\OneDrive\المستندات\GitHub\Self-Diagnosis-Sp\x64\Debug\Project38.vcxproj.ResolveComReference.cache
+C:\Users\karee\OneDrive\المستندات\GitHub\Self-Diagnosis-Sp\x64\Debug\Project38.Account_Settings.resources
+C:\Users\karee\OneDrive\المستندات\GitHub\Self-Diagnosis-Sp\x64\Debug\Project38.Camera_winform.resources
+C:\Users\karee\OneDrive\المستندات\GitHub\Self-Diagnosis-Sp\x64\Debug\Project38.MyForm.resources
+C:\Users\karee\OneDrive\المستندات\GitHub\Self-Diagnosis-Sp\x64\Debug\Project38.MyForm2.resources
+C:\Users\karee\OneDrive\المستندات\GitHub\Self-Diagnosis-Sp\x64\Debug\Project38.vcxproj.GenerateResource.cache
+C:\Users\karee\OneDrive\المستندات\GitHub\Self-Diagnosis-Sp\x64\Debug\Project38.vcxproj.CopyComplete
+C:\Users\karee\OneDrive\المستندات\GitHub\Self-Diagnosis-Sp\x64\Debug\Project38.exe
+C:\Users\karee\OneDrive\المستندات\GitHub\Self-Diagnosis-Sp\x64\Debug\Interop.WMPLib.1.0.dll
+C:\Users\karee\Desktop\Uni Projects\SP\Project38\x64\Debug\Project38.Account_Settings.resources
+C:\Users\karee\Desktop\Uni Projects\SP\Project38\x64\Debug\Project38.Camera_winform.resources
+C:\Users\karee\Desktop\Self-Diagnosis-Sp-main\x64\Debug\Project38.vcxproj.AssemblyReference.cache
+C:\Users\karee\Desktop\Self-Diagnosis-Sp-main\x64\Debug\Project38.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\karee\Desktop\Self-Diagnosis-Sp-main\x64\Debug\Project38.vcxproj.ResolveComReference.cache
+C:\Users\karee\Desktop\Self-Diagnosis-Sp-main\x64\Debug\Project38.Account_Settings.resources
+C:\Users\karee\Desktop\Self-Diagnosis-Sp-main\x64\Debug\Project38.Camera_winform.resources
+C:\Users\karee\Desktop\Self-Diagnosis-Sp-main\x64\Debug\Project38.MyForm.resources
+C:\Users\karee\Desktop\Self-Diagnosis-Sp-main\x64\Debug\Project38.MyForm2.resources
+C:\Users\karee\Desktop\Self-Diagnosis-Sp-main\x64\Debug\Project38.vcxproj.GenerateResource.cache
+C:\Users\karee\Desktop\Self-Diagnosis-Sp-main\x64\Debug\Project38.vcxproj.CopyComplete
+C:\Users\karee\Desktop\Self-Diagnosis-Sp-main\x64\Debug\Project38.exe
+C:\Users\karee\Desktop\Self-Diagnosis-Sp-main\x64\Debug\Interop.WMPLib.1.0.dll
+C:\Users\karee\Desktop\Uni Projects\SP\Self-Diagnosis-Sp-main\x64\Debug\Project38.vcxproj.AssemblyReference.cache
+C:\Users\karee\Desktop\Uni Projects\SP\Self-Diagnosis-Sp-main\x64\Debug\Project38.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\karee\Desktop\Uni Projects\SP\Self-Diagnosis-Sp-main\x64\Debug\Project38.vcxproj.ResolveComReference.cache
+C:\Users\karee\Desktop\Uni Projects\SP\Self-Diagnosis-Sp-main\x64\Debug\Project38.Account_Settings.resources
+C:\Users\karee\Desktop\Uni Projects\SP\Self-Diagnosis-Sp-main\x64\Debug\Project38.Camera_winform.resources
+C:\Users\karee\Desktop\Uni Projects\SP\Self-Diagnosis-Sp-main\x64\Debug\Project38.MyForm.resources
+C:\Users\karee\Desktop\Uni Projects\SP\Self-Diagnosis-Sp-main\x64\Debug\Project38.MyForm2.resources
+C:\Users\karee\Desktop\Uni Projects\SP\Self-Diagnosis-Sp-main\x64\Debug\Project38.vcxproj.GenerateResource.cache
+C:\Users\karee\Desktop\Uni Projects\SP\Self-Diagnosis-Sp-main\x64\Debug\Project38.vcxproj.CopyComplete
+C:\Users\karee\Desktop\Uni Projects\SP\Self-Diagnosis-Sp-main\x64\Debug\Project38.exe
+C:\Users\karee\Desktop\Uni Projects\SP\Self-Diagnosis-Sp-main\x64\Debug\AForge.dll
+C:\Users\karee\Desktop\Uni Projects\SP\Self-Diagnosis-Sp-main\x64\Debug\AForge.Video.DirectShow.dll
+C:\Users\karee\Desktop\Uni Projects\SP\Self-Diagnosis-Sp-main\x64\Debug\AForge.Video.dll
+C:\Users\karee\Desktop\Uni Projects\SP\Self-Diagnosis-Sp-main\x64\Debug\DarrenLee.Media.dll
+C:\Users\karee\Desktop\Uni Projects\SP\Self-Diagnosis-Sp-main\x64\Debug\Interop.WMPLib.1.0.dll
+F:\ASU\2nd term\Projects\Self-Diagnosis-Sp\x64\Debug\Project38.vcxproj.AssemblyReference.cache
+F:\ASU\2nd term\Projects\Self-Diagnosis-Sp\x64\Debug\Project38.vcxproj.SuggestedBindingRedirects.cache
+F:\ASU\2nd term\Projects\Self-Diagnosis-Sp\x64\Debug\Project38.vcxproj.ResolveComReference.cache
+F:\ASU\2nd term\Projects\Self-Diagnosis-Sp\x64\Debug\Project38.Account_Settings.resources
+F:\ASU\2nd term\Projects\Self-Diagnosis-Sp\x64\Debug\Project38.Camera_winform.resources
+F:\ASU\2nd term\Projects\Self-Diagnosis-Sp\x64\Debug\Project38.MyForm.resources
+F:\ASU\2nd term\Projects\Self-Diagnosis-Sp\x64\Debug\Project38.MyForm2.resources
+F:\ASU\2nd term\Projects\Self-Diagnosis-Sp\x64\Debug\Project38.vcxproj.GenerateResource.cache
+F:\ASU\2nd term\Projects\Self-Diagnosis-Sp\x64\Debug\Project38.vcxproj.CopyComplete
+F:\ASU\2nd term\Projects\Self-Diagnosis-Sp\x64\Debug\Project38.exe
+F:\ASU\2nd term\Projects\Self-Diagnosis-Sp\x64\Debug\messageboxmanager.dll
+F:\ASU\2nd term\Projects\Self-Diagnosis-Sp\x64\Debug\MySql.Data.dll
+F:\ASU\2nd term\Projects\Self-Diagnosis-Sp\x64\Debug\Project29.dll
+F:\ASU\2nd term\Projects\Self-Diagnosis-Sp\x64\Debug\Siticone.UI.dll
+F:\ASU\2nd term\Projects\Self-Diagnosis-Sp\x64\Debug\Interop.WMPLib.1.0.dll
+F:\ASU\2nd term\Projects\Self-Diagnosis-Sp\x64\Debug\Google.Protobuf.dll
+F:\ASU\2nd term\Projects\Self-Diagnosis-Sp\x64\Debug\BouncyCastle.Crypto.dll
+F:\ASU\1st year work\1st year 2nd term  projects\Projects\Self-Diagnosis-Sp\x64\Debug\Project38.vcxproj.AssemblyReference.cache
+F:\ASU\1st year work\1st year 2nd term  projects\Projects\Self-Diagnosis-Sp\x64\Debug\Project38.vcxproj.SuggestedBindingRedirects.cache
+F:\ASU\1st year work\1st year 2nd term  projects\Projects\Self-Diagnosis-Sp\x64\Debug\Project38.vcxproj.ResolveComReference.cache
+F:\ASU\1st year work\1st year 2nd term  projects\Projects\Self-Diagnosis-Sp\x64\Debug\Project38.Account_Settings.resources
+F:\ASU\1st year work\1st year 2nd term  projects\Projects\Self-Diagnosis-Sp\x64\Debug\Project38.Camera_winform.resources
+F:\ASU\1st year work\1st year 2nd term  projects\Projects\Self-Diagnosis-Sp\x64\Debug\Project38.MyForm.resources
+F:\ASU\1st year work\1st year 2nd term  projects\Projects\Self-Diagnosis-Sp\x64\Debug\Project38.MyForm2.resources
+F:\ASU\1st year work\1st year 2nd term  projects\Projects\Self-Diagnosis-Sp\x64\Debug\Project38.vcxproj.GenerateResource.cache
+F:\ASU\1st year work\1st year 2nd term  projects\Projects\Self-Diagnosis-Sp\x64\Debug\Project38.vcxproj.CopyComplete
+F:\ASU\1st year work\1st year 2nd term  projects\Projects\Self-Diagnosis-Sp\x64\Debug\Project38.exe
+F:\ASU\1st year work\1st year 2nd term  projects\Projects\Self-Diagnosis-Sp\x64\Debug\MySql.Data.dll
+F:\ASU\1st year work\1st year 2nd term  projects\Projects\Self-Diagnosis-Sp\x64\Debug\Project29.dll
+F:\ASU\1st year work\1st year 2nd term  projects\Projects\Self-Diagnosis-Sp\x64\Debug\Siticone.UI.dll
+F:\ASU\1st year work\1st year 2nd term  projects\Projects\Self-Diagnosis-Sp\x64\Debug\Interop.WMPLib.1.0.dll
+F:\0\Self-Diagnosis-Sp\x64\Debug\Project38.vcxproj.AssemblyReference.cache
+F:\0\Self-Diagnosis-Sp\x64\Debug\Project38.vcxproj.SuggestedBindingRedirects.cache
+F:\0\Self-Diagnosis-Sp\x64\Debug\Project38.vcxproj.ResolveComReference.cache
+F:\0\Self-Diagnosis-Sp\x64\Debug\Project38.Account_Settings.resources
+F:\0\Self-Diagnosis-Sp\x64\Debug\Project38.Camera_winform.resources
+F:\0\Self-Diagnosis-Sp\x64\Debug\Project38.MyForm.resources
+F:\0\Self-Diagnosis-Sp\x64\Debug\Project38.MyForm2.resources
+F:\0\Self-Diagnosis-Sp\x64\Debug\Project38.vcxproj.GenerateResource.cache
+F:\0\Self-Diagnosis-Sp\x64\Debug\Project38.vcxproj.CopyComplete
+F:\0\Self-Diagnosis-Sp\x64\Debug\Project38.exe
+F:\0\Self-Diagnosis-Sp\x64\Debug\MySql.Data.dll
+F:\0\Self-Diagnosis-Sp\x64\Debug\Project29.dll
+F:\0\Self-Diagnosis-Sp\x64\Debug\Siticone.UI.dll
+F:\0\Self-Diagnosis-Sp\x64\Debug\Interop.WMPLib.1.0.dll
+F:\0\Windows Form Application Template C++\x64\Debug\Project38.vcxproj.AssemblyReference.cache
+F:\0\Windows Form Application Template C++\x64\Debug\Project38.vcxproj.SuggestedBindingRedirects.cache
+F:\0\Windows Form Application Template C++\x64\Debug\Project38.vcxproj.ResolveComReference.cache
+F:\0\Windows Form Application Template C++\x64\Debug\Project38.Account_Settings.resources
+F:\0\Windows Form Application Template C++\x64\Debug\Project38.Camera_winform.resources
+F:\0\Windows Form Application Template C++\x64\Debug\Project38.MyForm.resources
+F:\0\Windows Form Application Template C++\x64\Debug\Project38.MyForm2.resources
+F:\0\Windows Form Application Template C++\x64\Debug\Project38.vcxproj.GenerateResource.cache
+F:\0\Windows Form Application Template C++\x64\Debug\Project38.vcxproj.CopyComplete
+F:\0\Windows Form Application Template C++\x64\Debug\Project38.exe
+F:\0\Windows Form Application Template C++\x64\Debug\MySql.Data.dll
+F:\0\Windows Form Application Template C++\x64\Debug\Project29.dll
+F:\0\Windows Form Application Template C++\x64\Debug\Siticone.UI.dll
+F:\0\Windows Form Application Template C++\x64\Debug\Interop.WMPLib.1.0.dll
